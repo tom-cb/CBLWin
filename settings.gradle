@@ -1,0 +1,3 @@
+rootProject.name = 'CBLWin'
+
+include ':libraries:couchbase-lite-java', ':libraries:couchbase-lite-java-core', ':libraries:couchbase-lite-java-native'
